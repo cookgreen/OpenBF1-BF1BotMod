@@ -1,0 +1,41 @@
+<Vehicles>
+    <Vehicle id="ft17" name="Renault FT-17">
+        <VehicleComponents>
+            <VehicleComponent Type="Hull" model="model_french_ft_tank_hull" />
+            <VehicleComponent Type="Chassis" model="model_french_ft_tank_chas" />
+            <VehicleComponent Type="Turret" model="model_french_ft_tank_turrent">
+                <VehicleComponentParametersList>
+                    <VehicleComponentParameters Name="rotation">
+                        <VehiclePhysicsParameter Key="speed">30</VehiclePhysicsParameter>
+                        <VehiclePhysicsParameter Key="min_pitch">-10</VehiclePhysicsParameter>
+                        <VehiclePhysicsParameter Key="max_pitch">20</VehiclePhysicsParameter>
+                    </VehicleComponentParameters>
+                    <VehicleComponentParameters Name="MuzzleOffset">
+                        <VehiclePhysicsParameter Key="x">0</VehiclePhysicsParameter>
+                        <VehiclePhysicsParameter Key="y">0</VehiclePhysicsParameter>
+                        <VehiclePhysicsParameter Key="z">12</VehiclePhysicsParameter>
+                    </VehicleComponentParameters>
+                </VehicleComponentParametersList>
+            </VehicleComponent>
+        </VehicleComponents>
+        <VehiclePhysics>
+            <VehiclePhysicsParametersList>
+                <VehiclePhysicsParameters Name="Speed">
+                    <VehiclePhysicsParameter Key="forward">30</VehiclePhysicsParameter>
+                    <VehiclePhysicsParameter Key="backward">10</VehiclePhysicsParameter>
+                    <VehiclePhysicsParameter Key="rotation">15</VehiclePhysicsParameter>
+                </VehiclePhysicsParameters>
+                <VehiclePhysicsParameters Name="Weight">
+                    <VehiclePhysicsParameter Key="WeightValue">6500</VehiclePhysicsParameter>
+                </VehiclePhysicsParameters>
+            </VehiclePhysicsParametersList>
+        </VehiclePhysics>
+        <VehicleCombat>
+            <VehicleCombatParameters>
+                <VehicleCombatParameter key="ReloadTime">3.5</VehicleCombatParameter>
+                <VehicleCombatParameter key="Damage">50</VehicleCombatParameter>
+                <VehicleCombatParameter key="ShellSpeed">120</VehicleCombatParameter>
+            </VehicleCombatParameters>
+        </VehicleCombat>
+    </Vehicle>
+</Vehicles>

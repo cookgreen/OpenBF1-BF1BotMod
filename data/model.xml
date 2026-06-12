@@ -1,0 +1,5 @@
+<Models>
+	<Model id="model_french_ft_tank_turrent" file="ft17_turrent.obj" material="ft17_mat"/>
+	<Model id="model_french_ft_tank_hull" file="ft17_hull.obj" material="ft17_mat" />
+	<Model id="model_french_ft_tank_chas" file="ft17_chas.obj" material="ft17_chas_mat" />
+</Models>

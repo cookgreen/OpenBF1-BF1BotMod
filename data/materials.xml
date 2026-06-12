@@ -1,0 +1,14 @@
+<Materials>
+	<Material id="ft17_mat">
+		<Textures>
+			<Texture key="Diffuse" file="ft17.dds"></Texture>
+			<Texture key="NormalMap" file="ft17_n.dds"></Texture>
+			<Texture key="Specular" file="ft17_s.dds"></Texture>
+		</Textures>
+	</Material>
+	<Material id="ft17_chas_mat">
+		<Textures>
+			<Texture key="Diffuse" file="ft17_chas.dds"></Texture>
+		</Textures>
+	</Material>
+</Materials>

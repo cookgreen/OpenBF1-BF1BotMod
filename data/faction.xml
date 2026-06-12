@@ -1,0 +1,13 @@
+<Factions>
+	<Faction id="fac_uk" name="British Empire" icon="BF1_UK_Icon.png" />
+	<Faction id="fac_uk_anzac" name="British ANZAC" icon="BF1_UK_Icon.png" />
+	<Faction id="fac_uk_marines" name="Royal Marine Crops" icon="BF1_UKM_Icon.png" />
+	<Faction id="fac_fra" name="French Republic" icon="BF1_FRA_Icon.png" />
+	<Faction id="fac_usa" name="United States" icon="BF1_USA_Icon.png" />
+	<Faction id="fac_ita" name="Kingdom of Italy" icon="BF1_ITA_Icon.png" />
+	<Faction id="fac_rus" name="Russia" icon="BF1_RUS_Icon.png" />
+	<Faction id="fac_ger" name="German Empire" icon="BF1_GER_Icon.png" />
+	<Faction id="fac_otm" name="Ottoman Empire" icon="BF1_OTM_Icon.png" />
+	<Faction id="fac_ahu" name="Austro-Hungarian Empire" icon="BF1_AHU_Icon.png" />
+	<Faction id="fac_bol" name="Bolsheviks" icon="BF1_BOL_Icon.png" />
+</Factions>
