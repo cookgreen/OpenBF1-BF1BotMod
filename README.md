@@ -1,5 +1,8 @@
 # BF1 Bot Mod (OpenBF1)
 Unofficial addon for Battlefield 1 which allow players to play match with Bots  
+  
+moddb: https://www.moddb.com/mods/battlefield-1-bot-mod  
+  
 **Status: WIP**  
 _______________
 This is a community project that aims to add offline bots to BF1. The initial idea behind this project was to reverse engineer BF1 using techniques such as disassembly to add the existing single-player functionality to BF1's multiplayer mode.
@@ -18,6 +21,15 @@ Due to a lack of extensive BF1 map resources, I am unable to build complete maps
 
 ## Runtime Environment / 开发+运行环境
 This project uses Python 3.12 + OpenGL to develop and run, make sure you have these environments  
+
+## Videos / 视频  
+Airplane:  
+  
+https://github.com/user-attachments/assets/262cc16d-7b05-4cdf-88d2-63c54a071bf7
+
+Tank:  
+  
+https://github.com/user-attachments/assets/85fcc7b8-3650-48a0-8ac0-1dfe9b987fde
 
 ## Screenshots / 截图
 <img width="100%" alt="BF1 Bot Mod - Main Menu" src="https://github.com/user-attachments/assets/a8ff28db-45e7-42fc-98c8-98c3ad844291" />  
