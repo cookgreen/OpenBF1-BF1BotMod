@@ -23,6 +23,12 @@ Due to a lack of extensive BF1 map resources, I am unable to build complete maps
 This project uses Python 3.12 + OpenGL to develop and run, make sure you have these environments  
 
 ## Videos / 视频  
+Main Menu:  
+  
+https://github.com/user-attachments/assets/66d845dc-6d8b-4f87-8fe4-fb0bf7a74218
+
+
+  
 Airplane:  
   
 https://github.com/user-attachments/assets/262cc16d-7b05-4cdf-88d2-63c54a071bf7
